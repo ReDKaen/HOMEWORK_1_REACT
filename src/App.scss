@@ -1,0 +1,26 @@
+.first-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    border: none;
+}
+
+.second-button{
+    border-radius: 8px;
+    padding: 16px 20px;
+    width: 192px;
+    height: 48px;
+    border: none;
+}
+
+.button_wrapper{
+    display: flex;
+    gap: 20px;
+}
+
+.app-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
